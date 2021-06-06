@@ -1,1 +1,0 @@
-"# ANSYS-learning-note" 
